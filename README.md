@@ -35,7 +35,7 @@ Manovich señala que, gracias al software, los límites entre disciplinas como a
 ### Descripción de Nike+
 Nike+ nació de la colaboración entre Nike y Apple en 2006. Consiste en un sistema que conecta dispositivos físicos (calzado con sensores) con software (una app móvil) para registrar métricas deportivas, como la distancia recorrida, las calorías quemadas y el tiempo de ejercicio.
 
-> "Cuando empecé a usar Nike+, fue como tener un entrenador personal en mi bolsillo. Me motivaba a correr más y a mejorar cada día. Poder registrar datos de mis entrenamientos y ver la evolución me animó a seguir." – Testimonio ficticio.
+En mi propia experiencia cuando empecé a usar Nike+, fue como tener un entrenador personal en mi bolsillo. Me motivaba a correr más y a mejorar cada día. Poder registrar datos de mis entrenamientos y ver la evolución me animó a seguir.
 
 ---
 
@@ -61,7 +61,7 @@ En este caso, Nike+ no se limita a registrar datos; crea una experiencia inmersi
 ### Redefinición del deporte
 Nike+ fusiona tecnología y deporte, convirtiendo actividades físicas tradicionales en experiencias cuantificables y compartibles.
 
-> "Antes corría por hábito; ahora corro con un propósito. Cada kilómetro registrado en Nike+ me motiva a superarme y a compartir mis logros con mis amigos." – Testimonio ficticio.
+Antes corría por hábito; ahora corro con un propósito. Cada kilómetro registrado en Nike+ me motiva a superarme y a compartir mis logros con mis compañeros runners.
 
 Según Manovich, los productos híbridos no son simplemente "mezclas", sino que crean algo esencialmente nuevo. Nike+ representa:
 
@@ -90,7 +90,7 @@ Manovich explica que los productos híbridos combinan elementos para redefinir e
 ### Transformación de prácticas culturales
 Antes de Nike+, el deporte era una práctica aislada y personal para muchos. La introducción de esta plataforma híbrida cambió esta percepción, convirtiendo el deporte en un acto social, tecnológico y cultural.
 
-> "No se trataba ya solo de correr, sino de cómo la tecnología convierte cada paso en datos que puedo interpretar, compartir y mejorar." – Testimonio ficticio.
+Pwrsonalmente, ya no se trataba olo de correr, sino de cómo la tecnología convierte cada paso en datos que puedo interpretar, compartir y mejorar.
 
 Nike+ popularizó el concepto de *quantified self* (el yo cuantificado). Desde la perspectiva de Manovich:
 
@@ -202,5 +202,6 @@ En ambos casos, queda claro que la hibridación redefine las prácticas cultural
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+
 
 
